@@ -26,7 +26,6 @@ The goals / steps of this project are the following:
 [image8]: ./examples/image8.jpg "Right Camera Image"
 [image9]: ./examples/image9.jpg "Flipped Image"
 [image10]: ./examples/image10.jpg "Flipped Image"
-[video1]: ./examples/video1.mp4 "Autonomous Driving Video"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
@@ -164,4 +163,4 @@ I randomly shuffled the data set (model.py lines 30, 44, 85) and put 20% of the 
 
 The vehicle is able to drive autonomously around the track without leaving the road:
 
-![alt text][video1]
+![Autonomous Driving Video](./examples/video1.mp4)
